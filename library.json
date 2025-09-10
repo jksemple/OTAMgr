@@ -1,0 +1,16 @@
+{
+  "name": "OTAMgr",
+  "version": "0.0.1",
+  "keywords": "communication, REST, esp32, esp8266, arduino",
+  "description": "Manage over the air updates",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jksemple/OTAMgr.git"
+  },
+  "authors": [{
+    "name": "jksemple",
+    "email": "github@semple.org"
+  }],
+  "frameworks": "arduino",
+  "platforms": "espressif32, espressif8266"
+}
