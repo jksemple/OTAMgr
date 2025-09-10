@@ -1,6 +1,6 @@
 {
   "name": "OTAMgr",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": "communication, REST, esp32, esp8266, arduino",
   "description": "Manage over the air updates",
   "repository": {
